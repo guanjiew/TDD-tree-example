@@ -1,4 +1,4 @@
-> git clone --recursive
+> git clone --recursive https://github.com/guanjiew/TDD-tree-example
 
 > mkdir build
 
