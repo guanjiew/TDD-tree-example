@@ -21,8 +21,5 @@ int main(int argc, char **argv)
     {
         std::cout << "Found 3" << std::endl;
     }
-
-    // delete the tree
-    delete tree.root;
     return 0;
 }

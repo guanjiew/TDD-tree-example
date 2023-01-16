@@ -16,6 +16,7 @@ enable_testing()
 
 # Add the binary tree library and test executable
 add_executable(binary_tree_tests "test/binary_tree_tests.cpp")
+add_executable(binary_tree "src/binary_tree.cpp")
 target_link_libraries(binary_tree_tests gtest_main)
 
 
